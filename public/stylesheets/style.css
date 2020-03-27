@@ -6,3 +6,13 @@ body {
 a {
   color: #00B7FF;
 }
+
+h1 {
+  color: blue;
+  ;
+}
+
+p {
+  color: red;
+  font: 1em sans-serif;
+}
